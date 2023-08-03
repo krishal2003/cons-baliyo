@@ -1,0 +1,27 @@
+// ----------------------------------------------------------------------
+
+export const bio = [
+  'Ambitious bachelor student with a passion for learning and a drive for success.',
+  'Diligent and focused undergraduate seeking knowledge and eager to make a positive impact.',
+  'Curious and analytical student with a thirst for knowledge and a love for exploration.',
+  'Engaged and proactive undergraduate ready to tackle challenges and embrace new opportunities.',
+  'Motivated bachelor student committed to academic excellence and personal growth.',
+  'Driven and disciplined bachelor student striving for academic excellence and professional development.',
+  'Enthusiastic and dedicated undergraduate pursuing intellectual growth and a well-rounded education.',
+  'Eager and determined student with a thirst for knowledge and a passion for continuous learning.',
+  'Goal-oriented bachelor student dedicated to personal and academic growth, and future success.',
+  'good student',
+  'good student',
+  'good student',
+  'good student',
+  'good student',
+  'good student',
+  'good student',
+  'good student',
+  'good student',
+  'good student',
+  'good student',
+  'good student',
+  'good student',
+  'good student',
+];
